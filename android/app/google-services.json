@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334427181956",
+    "project_id": "check-it-4b99e",
+    "storage_bucket": "check-it-4b99e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334427181956:android:28dcb32bf0ee2aeb37c3d1",
+        "android_client_info": {
+          "package_name": "com.example.CheckIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334427181956-absk3r9mmvn775diti1idkekucuekng8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARiZW50xQ0LnL388HgyAIFpjpl0vo7y1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334427181956-absk3r9mmvn775diti1idkekucuekng8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
